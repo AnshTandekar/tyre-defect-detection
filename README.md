@@ -2,6 +2,10 @@
 
 Advanced quality control system using Convolutional Neural Networks (CNN) to detect defective tyres with **95.5% accuracy**.
 
+**🔗 Live Web App:** https://tyre-defect-detection.onrender.com  
+Detect tyre defects using a CNN-based deep learning model. 
+
+
 ![Python](https://img.shields.io/badge/Python-3.12-blue)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-2.19.0-orange)
 ![Flask](https://img.shields.io/badge/Flask-3.1.2-green)
