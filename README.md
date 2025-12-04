@@ -70,7 +70,7 @@ Output: Defective (0) or Good (1)
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/YOUR_USERNAME/tyre-defect-detection.git
+git clone https://github.com/AnshTandekar/tyre-defect-detection.git
 cd tyre-defect-detection
 ```
 
